@@ -1,0 +1,5 @@
+export const APP_MAIN = '#FBFBFB'
+export const PRIMARY_RED = '#F16B59'
+export const PRIMARY_BLACK = '#222B32'
+export const MEDIUM_GREY = '#D1D1D1'
+export const WHITE = '#FFFFFF'
